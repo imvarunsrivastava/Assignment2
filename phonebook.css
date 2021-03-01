@@ -1,0 +1,17 @@
+div{
+    background-color:cornflowerblue;
+    border: 2px solid black;
+    margin: 20px;
+    font-size: 2.5rem;
+}
+
+div{
+    position:sticky;
+    top: 10px;
+}
+
+h1{
+    background-color:cornflowerblue ;
+    display: inline;
+
+}
